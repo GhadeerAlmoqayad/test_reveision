@@ -1,0 +1,21 @@
+{
+  "loginAppBarTitle": "تسجيل الدخول",
+  "loginTitle": "مرحبا بعودتك!",
+  "loginSubtitle": "يرجى إدخال تفاصيل تسجيل الدخول الخاصة بك",
+  "emailHint": "أدخل البريد الإلكتروني",
+  "passwordHint": "أدخل كلمة المرور",
+  "loginButton": "تسجيل الدخول",
+  "confirm_logout_title": "تسجيل الخروج",
+  "confirm_logout_content": "هل أنت متأكد؟",
+  "confirm": "تأكيد",
+  "cancel": "الغاء",
+  "language_title": "تغيير اللغة",
+  "language_subtitle": "اختر اللغة المناسبة",
+
+
+
+  "myTasks": "مهامي" ,
+  "myAccount": "حسابي",
+  "contactAdmin": "تواصل مع الأدمن",
+  "logoutButton": "تسجيل الخروج"
+}

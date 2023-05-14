@@ -1,0 +1,28 @@
+{
+  "loginAppBarTitle": "Login",
+  "loginTitle": "Welcome back!",
+  "loginSubtitle": "Please enter your login details",
+  "emailHint": "Enter your Email",
+  "passwordHint": "Enter Your Password",
+  "loginButton": "Login",
+  "confirm_logout_title": "Confirm Logout",
+  "confirm_logout_content": "Are You Sure?",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "language_title": "Change Language",
+  "language_subtitle": "choose suitable language",
+
+
+  "myTasks": "My Tasks" ,
+  "myAccount": "My Account",
+  "contactAdmin": "Contact Admin",
+  "logoutButton": "LogOut"
+
+
+
+
+
+
+
+
+}
